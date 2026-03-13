@@ -7,5 +7,8 @@
   - nextjs
     - next.js 指南
 - video(视频资料)
+   - ai agent
+     - AI Agent 全栈开发 2025
+     - 从0到1定制开发 全栈全流程企业级落地实战
    - python
      - python 全栈开发
