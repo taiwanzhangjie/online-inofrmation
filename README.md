@@ -2,11 +2,16 @@
 当前资料库：
 - docs(文本资料)：
   - ai
+    - openclaw
+      - 蓝皮书 1.0  
     - claude 教程
       - Claude 工作流实战 (给编程人员介绍如何使用 Claude) 
   - nextjs
     - next.js 指南
 - video(视频资料)
+   - ai
+     - openclaw
+       - OpenClaw（小龙虾）7天入门实战训练营
    - ai agent
      - AI Agent 全栈开发 2025
      - 从0到1定制开发 全栈全流程企业级落地实战
