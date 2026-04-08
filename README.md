@@ -19,3 +19,5 @@
      - python 全栈开发
    - 抖音
      - 火焰社青云老师
+   - nodejs
+     - nestjs 从拔高到精通
