@@ -1,5 +1,6 @@
 收集来源于互联网的学习资料，仅供个人学习使用，不得用于其它用途。
 当前资料库：
+- 掘金小册大佬收集版：https://github.com/lm-rebooter/NuggetsBooklet
 - docs(文本资料)：
   - ai
     - openclaw
